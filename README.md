@@ -39,7 +39,7 @@ python <path_to_git_folder>/BSDigital/correct_rotation.py <path_to_train_model> 
 
 ## Auteurs
 
-Luc Antimi
-Arthur Aries
-Grégoire Effroy
+Luc Antimi, 
+Arthur Aries, 
+Grégoire Effroy, 
 Léna Sasal
